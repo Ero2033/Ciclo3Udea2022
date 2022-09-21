@@ -1,0 +1,7 @@
+-------------------------------
+Este es un archivo de prueba
+para probar que se sube del
+repositorio local (mi carpeta)
+al Github personal.
+===============================
+	
